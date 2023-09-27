@@ -1,0 +1,53 @@
+body {
+  font-family: "Roboto Slab", serif;
+}
+h1 {
+  font-weight: 900;
+}
+.fab {
+  font-weight: 600;
+}
+.logo {
+  text-align: center;
+}
+.logo-img {
+  width: 150px;
+}
+header {
+  display: block;
+  padding-left: 33%;
+  padding-right: 33%;
+}
+.piedipagina {
+  text-align: center;
+  color: rgb(0, 100, 0);
+  background-color: rgba(249, 211, 141, 0.16);
+  padding: 15px;
+  margin-top: 5px;
+}
+h1 {
+  color: rgba(0, 0, 0, 0.862);
+  text-align: center;
+}
+.focaccia {
+  width: 100%;
+}
+.ex-link {
+  padding-left: 50px;
+}
+main {
+  display: block;
+  padding-left: 33%;
+  padding-right: 33%;
+}
+li {
+  padding: 4px;
+}
+.feat {
+  color: rgba(180, 48, 0, 0.658);
+}
+footer {
+  display: block;
+  padding-left: 33%;
+  padding-right: 33%;
+}
